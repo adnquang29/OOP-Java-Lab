@@ -1,0 +1,28 @@
+ ID         Name            Total Area      Terrain        
+ ----------------------------------------------------------
+ IDN        Indonesia       11.0            Nice           
+ MYM        Myanmar         10.0            Nice           
+ TL         Thailand        9.0             Nice           
+ VN         Vietnam         8.0             Nice           
+ MLS        Malaysia        7.0             Nice           
+ PLP        Philippines     6.0             Nice           
+ L          Laos            5.0             Nice           
+ CBD        Cambodia        4.0             Nice           
+ TML        Timor Leste     3.0             Nice           
+ BN         Brunei          2.0             Nice           
+ SGP        Singapore       1.0             Nice           
+
+
+ ID         Name            Total Area      Terrain        
+ ----------------------------------------------------------
+ BN         Brunei          2.0             Nice           
+ CBD        Cambodia        4.0             Nice           
+ IDN        Indonesia       11.0            Nice           
+ L          Laos            5.0             Nice           
+ MLS        Malaysia        7.0             Nice           
+ MYM        Myanmar         10.0            Nice           
+ PLP        Philippines     6.0             Nice           
+ SGP        Singapore       1.0             Nice           
+ TL         Thailand        9.0             Nice           
+ TML        Timor Leste     3.0             Nice           
+ VN         Vietnam         8.0             Nice           
