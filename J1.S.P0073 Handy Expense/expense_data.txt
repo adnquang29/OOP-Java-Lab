@@ -1,0 +1,4 @@
+1,11-Apr-2009,100.0,Tuition fee
+2,20-Apr-2009,250.0,Rent house
+3,30-Apr-2009,200.0,Food
+4,10-May-2009,200.0,Materials
